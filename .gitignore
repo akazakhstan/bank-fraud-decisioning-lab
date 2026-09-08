@@ -25,3 +25,5 @@ reports/generated/
 # OS files
 .DS_Store
 Thumbs.db
+# Generated fraud datasets
+data/*.csv
