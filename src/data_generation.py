@@ -445,7 +445,98 @@ def generate_transactions(
             ],
             size=velocity_group_size,
         )
+    # -----------------------------------------------------------------------
+    # Geographic Anomaly
+    # -----------------------------------------------------------------------
+    #
+    # Create transactions where the same account appears to move
+    # between geographically distant states within a short period.
+    #
+    # Example:
+    #   10:15:03  NC
+    #   10:15:42  CA
+    #
+    # This creates a potential "impossible travel" signal.
+    # -----------------------------------------------------------------------
 
+    geographic_count = 300
+
+    available_indices = np.setdiff1d(
+        np.arange(num_transactions),
+        np.concatenate(
+            [
+                ato_indices,
+                np.array(velocity_indices),
+            ],
+        ),
+    )
+
+    geographic_indices = rng.choice(
+        available_indices,
+        size=geographic_count,
+        replace=False,
+    )
+
+    geographic_states = [
+        ("NC", "CA"),
+        ("SC", "TX"),
+        ("VA", "AZ"),
+        ("GA", "NY"),
+        ("FL", "CA"),
+        ("TX", "NY"),
+        ("IL", "FL"),
+        ("AZ", "NY"),
+    ]
+
+    geographic_pairs = rng.choice(
+        len(geographic_states),
+        size=geographic_count,
+    )
+
+    for position, index in enumerate(geographic_indices):
+
+        # Select a geographically distant state pair
+        origin_state, destination_state = geographic_states[
+            geographic_pairs[position]
+        ]
+
+        # Assign the destination state to the suspicious transaction
+        states[index] = destination_state
+
+        # Mark the transaction as fraudulent
+        is_fraud[index] = 1
+        fraud_type[index] = "geographic_anomaly"
+
+        # Make the transaction relatively large
+        amounts[index] = np.round(
+            rng.uniform(
+                300,
+                3000,
+            ),
+            2,
+        )
+
+        # Geographic anomalies are more likely through digital channels
+        channels[index] = rng.choice(
+            [
+                "online",
+                "mobile",
+                "wire",
+            ]
+        )
+
+        # Make the transaction occur at a suspicious time
+        timestamps[index] = (
+            pd.Timestamp("2026-01-01")
+            + pd.Timedelta(
+                minutes=int(
+                    rng.integers(
+                        0,
+                        250000,
+                    )
+                )
+            )
+        )
     # -----------------------------------------------------------------------
     # Build transaction DataFrame
     # -----------------------------------------------------------------------
