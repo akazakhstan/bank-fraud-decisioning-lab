@@ -1,0 +1,2 @@
+transactions,fraud_transactions,fraud_interception_rate,fraud_block_rate,missed_fraud_rate,review_rate,decline_rate,decline_precision,missed_fraud,manual_reviews,false_declines,estimated_cost,period,strategy
+16643,350,88.57142857142857,44.57142857142857,11.428571428571429,6.2668989965751365,0.9373310100342487,100.0,40,1043,0,25215,Holdout,Baseline

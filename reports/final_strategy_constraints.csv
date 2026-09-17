@@ -1,0 +1,2 @@
+selection_period,selected_strategy,review_rate,max_review_rate,review_constraint_pass,decline_rate,max_decline_rate,decline_constraint_pass,all_development_constraints_pass,holdout_review_rate,holdout_decline_rate,all_holdout_constraints_pass
+Development,Baseline,9.35335911502833,10.0,True,0.8034295650088437,1.0,True,True,6.2668989965751365,0.9373310100342488,True

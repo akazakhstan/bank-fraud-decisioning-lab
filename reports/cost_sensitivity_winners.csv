@@ -1,0 +1,81 @@
+missed_fraud_cost,review_cost,false_decline_cost,strategy,total_cost
+100,2,10,Balanced Higher Capture,23210
+100,2,25,Balanced Higher Capture,23210
+100,2,50,Balanced Higher Capture,23210
+100,2,100,Balanced Higher Capture,23210
+100,5,10,Balanced Higher Capture,36725
+100,5,25,Balanced Higher Capture,36725
+100,5,50,Balanced Higher Capture,36725
+100,5,100,Balanced Higher Capture,36725
+100,10,10,Balanced Conservative,55060
+100,10,25,Balanced Conservative,55060
+100,10,50,Balanced Conservative,55060
+100,10,100,Balanced Conservative,55060
+100,20,10,Balanced Conservative,56120
+100,20,25,Balanced Conservative,56120
+100,20,50,Balanced Conservative,56120
+100,20,100,Balanced Conservative,56120
+250,2,10,Balanced Higher Capture,44510
+250,2,25,Balanced Higher Capture,44510
+250,2,50,Balanced Higher Capture,44510
+250,2,100,Balanced Higher Capture,44510
+250,5,10,Balanced Higher Capture,58025
+250,5,25,Balanced Higher Capture,58025
+250,5,50,Balanced Higher Capture,58025
+250,5,100,Balanced Higher Capture,58025
+250,10,10,Balanced Higher Capture,80550
+250,10,25,Balanced Higher Capture,80550
+250,10,50,Balanced Higher Capture,80550
+250,10,100,Balanced Higher Capture,80550
+250,20,10,Balanced Higher Capture,125600
+250,20,25,Balanced Higher Capture,125600
+250,20,50,Balanced Higher Capture,125600
+250,20,100,Balanced Higher Capture,125600
+500,2,10,Balanced Higher Capture,80010
+500,2,25,Balanced Higher Capture,80010
+500,2,50,Balanced Higher Capture,80010
+500,2,100,Balanced Higher Capture,80010
+500,5,10,Balanced Higher Capture,93525
+500,5,25,Balanced Higher Capture,93525
+500,5,50,Balanced Higher Capture,93525
+500,5,100,Balanced Higher Capture,93525
+500,10,10,Balanced Higher Capture,116050
+500,10,25,Balanced Higher Capture,116050
+500,10,50,Balanced Higher Capture,116050
+500,10,100,Balanced Higher Capture,116050
+500,20,10,Balanced Higher Capture,161100
+500,20,25,Balanced Higher Capture,161100
+500,20,50,Balanced Higher Capture,161100
+500,20,100,Balanced Higher Capture,161100
+750,2,10,High Capture,113948
+750,2,25,High Capture,113948
+750,2,50,High Capture,113948
+750,2,100,High Capture,113948
+750,5,10,Balanced Higher Capture,129025
+750,5,25,Balanced Higher Capture,129025
+750,5,50,Balanced Higher Capture,129025
+750,5,100,Balanced Higher Capture,129025
+750,10,10,Balanced Higher Capture,151550
+750,10,25,Balanced Higher Capture,151550
+750,10,50,Balanced Higher Capture,151550
+750,10,100,Balanced Higher Capture,151550
+750,20,10,Balanced Higher Capture,196600
+750,20,25,Balanced Higher Capture,196600
+750,20,50,Balanced Higher Capture,196600
+750,20,100,Balanced Higher Capture,196600
+1000,2,10,High Capture,124198
+1000,2,25,High Capture,124198
+1000,2,50,High Capture,124198
+1000,2,100,High Capture,124198
+1000,5,10,Balanced Higher Capture,164525
+1000,5,25,Balanced Higher Capture,164525
+1000,5,50,Balanced Higher Capture,164525
+1000,5,100,Balanced Higher Capture,164525
+1000,10,10,Balanced Higher Capture,187050
+1000,10,25,Balanced Higher Capture,187050
+1000,10,50,Balanced Higher Capture,187050
+1000,10,100,Balanced Higher Capture,187050
+1000,20,10,Balanced Higher Capture,232100
+1000,20,25,Balanced Higher Capture,232100
+1000,20,50,Balanced Higher Capture,232100
+1000,20,100,Balanced Higher Capture,232100

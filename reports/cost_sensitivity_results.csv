@@ -1,0 +1,401 @@
+missed_fraud_cost,review_cost,false_decline_cost,strategy,total_cost
+100,2,10,Baseline,26526
+100,2,10,Amount Emphasis,23322
+100,2,10,Balanced Higher Capture,23210
+100,2,10,Balanced Conservative,54212
+100,2,10,High Capture,87298
+100,2,25,Baseline,26526
+100,2,25,Amount Emphasis,23322
+100,2,25,Balanced Higher Capture,23210
+100,2,25,Balanced Conservative,54212
+100,2,25,High Capture,87298
+100,2,50,Baseline,26526
+100,2,50,Amount Emphasis,23322
+100,2,50,Balanced Higher Capture,23210
+100,2,50,Balanced Conservative,54212
+100,2,50,High Capture,87298
+100,2,100,Baseline,26526
+100,2,100,Amount Emphasis,23322
+100,2,100,Balanced Higher Capture,23210
+100,2,100,Balanced Conservative,54212
+100,2,100,High Capture,87298
+100,5,10,Baseline,39015
+100,5,10,Amount Emphasis,37005
+100,5,10,Balanced Higher Capture,36725
+100,5,10,Balanced Conservative,54530
+100,5,10,High Capture,212095
+100,5,25,Baseline,39015
+100,5,25,Amount Emphasis,37005
+100,5,25,Balanced Higher Capture,36725
+100,5,25,Balanced Conservative,54530
+100,5,25,High Capture,212095
+100,5,50,Baseline,39015
+100,5,50,Amount Emphasis,37005
+100,5,50,Balanced Higher Capture,36725
+100,5,50,Balanced Conservative,54530
+100,5,50,High Capture,212095
+100,5,100,Baseline,39015
+100,5,100,Amount Emphasis,37005
+100,5,100,Balanced Higher Capture,36725
+100,5,100,Balanced Conservative,54530
+100,5,100,High Capture,212095
+100,10,10,Baseline,59830
+100,10,10,Amount Emphasis,59810
+100,10,10,Balanced Higher Capture,59250
+100,10,10,Balanced Conservative,55060
+100,10,10,High Capture,420090
+100,10,25,Baseline,59830
+100,10,25,Amount Emphasis,59810
+100,10,25,Balanced Higher Capture,59250
+100,10,25,Balanced Conservative,55060
+100,10,25,High Capture,420090
+100,10,50,Baseline,59830
+100,10,50,Amount Emphasis,59810
+100,10,50,Balanced Higher Capture,59250
+100,10,50,Balanced Conservative,55060
+100,10,50,High Capture,420090
+100,10,100,Baseline,59830
+100,10,100,Amount Emphasis,59810
+100,10,100,Balanced Higher Capture,59250
+100,10,100,Balanced Conservative,55060
+100,10,100,High Capture,420090
+100,20,10,Baseline,101460
+100,20,10,Amount Emphasis,105420
+100,20,10,Balanced Higher Capture,104300
+100,20,10,Balanced Conservative,56120
+100,20,10,High Capture,836080
+100,20,25,Baseline,101460
+100,20,25,Amount Emphasis,105420
+100,20,25,Balanced Higher Capture,104300
+100,20,25,Balanced Conservative,56120
+100,20,25,High Capture,836080
+100,20,50,Baseline,101460
+100,20,50,Amount Emphasis,105420
+100,20,50,Balanced Higher Capture,104300
+100,20,50,Balanced Conservative,56120
+100,20,50,High Capture,836080
+100,20,100,Baseline,101460
+100,20,100,Amount Emphasis,105420
+100,20,100,Balanced Higher Capture,104300
+100,20,100,Balanced Conservative,56120
+100,20,100,High Capture,836080
+250,2,10,Baseline,53826
+250,2,10,Amount Emphasis,44622
+250,2,10,Balanced Higher Capture,44510
+250,2,10,Balanced Conservative,135212
+250,2,10,High Capture,93448
+250,2,25,Baseline,53826
+250,2,25,Amount Emphasis,44622
+250,2,25,Balanced Higher Capture,44510
+250,2,25,Balanced Conservative,135212
+250,2,25,High Capture,93448
+250,2,50,Baseline,53826
+250,2,50,Amount Emphasis,44622
+250,2,50,Balanced Higher Capture,44510
+250,2,50,Balanced Conservative,135212
+250,2,50,High Capture,93448
+250,2,100,Baseline,53826
+250,2,100,Amount Emphasis,44622
+250,2,100,Balanced Higher Capture,44510
+250,2,100,Balanced Conservative,135212
+250,2,100,High Capture,93448
+250,5,10,Baseline,66315
+250,5,10,Amount Emphasis,58305
+250,5,10,Balanced Higher Capture,58025
+250,5,10,Balanced Conservative,135530
+250,5,10,High Capture,218245
+250,5,25,Baseline,66315
+250,5,25,Amount Emphasis,58305
+250,5,25,Balanced Higher Capture,58025
+250,5,25,Balanced Conservative,135530
+250,5,25,High Capture,218245
+250,5,50,Baseline,66315
+250,5,50,Amount Emphasis,58305
+250,5,50,Balanced Higher Capture,58025
+250,5,50,Balanced Conservative,135530
+250,5,50,High Capture,218245
+250,5,100,Baseline,66315
+250,5,100,Amount Emphasis,58305
+250,5,100,Balanced Higher Capture,58025
+250,5,100,Balanced Conservative,135530
+250,5,100,High Capture,218245
+250,10,10,Baseline,87130
+250,10,10,Amount Emphasis,81110
+250,10,10,Balanced Higher Capture,80550
+250,10,10,Balanced Conservative,136060
+250,10,10,High Capture,426240
+250,10,25,Baseline,87130
+250,10,25,Amount Emphasis,81110
+250,10,25,Balanced Higher Capture,80550
+250,10,25,Balanced Conservative,136060
+250,10,25,High Capture,426240
+250,10,50,Baseline,87130
+250,10,50,Amount Emphasis,81110
+250,10,50,Balanced Higher Capture,80550
+250,10,50,Balanced Conservative,136060
+250,10,50,High Capture,426240
+250,10,100,Baseline,87130
+250,10,100,Amount Emphasis,81110
+250,10,100,Balanced Higher Capture,80550
+250,10,100,Balanced Conservative,136060
+250,10,100,High Capture,426240
+250,20,10,Baseline,128760
+250,20,10,Amount Emphasis,126720
+250,20,10,Balanced Higher Capture,125600
+250,20,10,Balanced Conservative,137120
+250,20,10,High Capture,842230
+250,20,25,Baseline,128760
+250,20,25,Amount Emphasis,126720
+250,20,25,Balanced Higher Capture,125600
+250,20,25,Balanced Conservative,137120
+250,20,25,High Capture,842230
+250,20,50,Baseline,128760
+250,20,50,Amount Emphasis,126720
+250,20,50,Balanced Higher Capture,125600
+250,20,50,Balanced Conservative,137120
+250,20,50,High Capture,842230
+250,20,100,Baseline,128760
+250,20,100,Amount Emphasis,126720
+250,20,100,Balanced Higher Capture,125600
+250,20,100,Balanced Conservative,137120
+250,20,100,High Capture,842230
+500,2,10,Baseline,99326
+500,2,10,Amount Emphasis,80122
+500,2,10,Balanced Higher Capture,80010
+500,2,10,Balanced Conservative,270212
+500,2,10,High Capture,103698
+500,2,25,Baseline,99326
+500,2,25,Amount Emphasis,80122
+500,2,25,Balanced Higher Capture,80010
+500,2,25,Balanced Conservative,270212
+500,2,25,High Capture,103698
+500,2,50,Baseline,99326
+500,2,50,Amount Emphasis,80122
+500,2,50,Balanced Higher Capture,80010
+500,2,50,Balanced Conservative,270212
+500,2,50,High Capture,103698
+500,2,100,Baseline,99326
+500,2,100,Amount Emphasis,80122
+500,2,100,Balanced Higher Capture,80010
+500,2,100,Balanced Conservative,270212
+500,2,100,High Capture,103698
+500,5,10,Baseline,111815
+500,5,10,Amount Emphasis,93805
+500,5,10,Balanced Higher Capture,93525
+500,5,10,Balanced Conservative,270530
+500,5,10,High Capture,228495
+500,5,25,Baseline,111815
+500,5,25,Amount Emphasis,93805
+500,5,25,Balanced Higher Capture,93525
+500,5,25,Balanced Conservative,270530
+500,5,25,High Capture,228495
+500,5,50,Baseline,111815
+500,5,50,Amount Emphasis,93805
+500,5,50,Balanced Higher Capture,93525
+500,5,50,Balanced Conservative,270530
+500,5,50,High Capture,228495
+500,5,100,Baseline,111815
+500,5,100,Amount Emphasis,93805
+500,5,100,Balanced Higher Capture,93525
+500,5,100,Balanced Conservative,270530
+500,5,100,High Capture,228495
+500,10,10,Baseline,132630
+500,10,10,Amount Emphasis,116610
+500,10,10,Balanced Higher Capture,116050
+500,10,10,Balanced Conservative,271060
+500,10,10,High Capture,436490
+500,10,25,Baseline,132630
+500,10,25,Amount Emphasis,116610
+500,10,25,Balanced Higher Capture,116050
+500,10,25,Balanced Conservative,271060
+500,10,25,High Capture,436490
+500,10,50,Baseline,132630
+500,10,50,Amount Emphasis,116610
+500,10,50,Balanced Higher Capture,116050
+500,10,50,Balanced Conservative,271060
+500,10,50,High Capture,436490
+500,10,100,Baseline,132630
+500,10,100,Amount Emphasis,116610
+500,10,100,Balanced Higher Capture,116050
+500,10,100,Balanced Conservative,271060
+500,10,100,High Capture,436490
+500,20,10,Baseline,174260
+500,20,10,Amount Emphasis,162220
+500,20,10,Balanced Higher Capture,161100
+500,20,10,Balanced Conservative,272120
+500,20,10,High Capture,852480
+500,20,25,Baseline,174260
+500,20,25,Amount Emphasis,162220
+500,20,25,Balanced Higher Capture,161100
+500,20,25,Balanced Conservative,272120
+500,20,25,High Capture,852480
+500,20,50,Baseline,174260
+500,20,50,Amount Emphasis,162220
+500,20,50,Balanced Higher Capture,161100
+500,20,50,Balanced Conservative,272120
+500,20,50,High Capture,852480
+500,20,100,Baseline,174260
+500,20,100,Amount Emphasis,162220
+500,20,100,Balanced Higher Capture,161100
+500,20,100,Balanced Conservative,272120
+500,20,100,High Capture,852480
+750,2,10,Baseline,144826
+750,2,10,Amount Emphasis,115622
+750,2,10,Balanced Higher Capture,115510
+750,2,10,Balanced Conservative,405212
+750,2,10,High Capture,113948
+750,2,25,Baseline,144826
+750,2,25,Amount Emphasis,115622
+750,2,25,Balanced Higher Capture,115510
+750,2,25,Balanced Conservative,405212
+750,2,25,High Capture,113948
+750,2,50,Baseline,144826
+750,2,50,Amount Emphasis,115622
+750,2,50,Balanced Higher Capture,115510
+750,2,50,Balanced Conservative,405212
+750,2,50,High Capture,113948
+750,2,100,Baseline,144826
+750,2,100,Amount Emphasis,115622
+750,2,100,Balanced Higher Capture,115510
+750,2,100,Balanced Conservative,405212
+750,2,100,High Capture,113948
+750,5,10,Baseline,157315
+750,5,10,Amount Emphasis,129305
+750,5,10,Balanced Higher Capture,129025
+750,5,10,Balanced Conservative,405530
+750,5,10,High Capture,238745
+750,5,25,Baseline,157315
+750,5,25,Amount Emphasis,129305
+750,5,25,Balanced Higher Capture,129025
+750,5,25,Balanced Conservative,405530
+750,5,25,High Capture,238745
+750,5,50,Baseline,157315
+750,5,50,Amount Emphasis,129305
+750,5,50,Balanced Higher Capture,129025
+750,5,50,Balanced Conservative,405530
+750,5,50,High Capture,238745
+750,5,100,Baseline,157315
+750,5,100,Amount Emphasis,129305
+750,5,100,Balanced Higher Capture,129025
+750,5,100,Balanced Conservative,405530
+750,5,100,High Capture,238745
+750,10,10,Baseline,178130
+750,10,10,Amount Emphasis,152110
+750,10,10,Balanced Higher Capture,151550
+750,10,10,Balanced Conservative,406060
+750,10,10,High Capture,446740
+750,10,25,Baseline,178130
+750,10,25,Amount Emphasis,152110
+750,10,25,Balanced Higher Capture,151550
+750,10,25,Balanced Conservative,406060
+750,10,25,High Capture,446740
+750,10,50,Baseline,178130
+750,10,50,Amount Emphasis,152110
+750,10,50,Balanced Higher Capture,151550
+750,10,50,Balanced Conservative,406060
+750,10,50,High Capture,446740
+750,10,100,Baseline,178130
+750,10,100,Amount Emphasis,152110
+750,10,100,Balanced Higher Capture,151550
+750,10,100,Balanced Conservative,406060
+750,10,100,High Capture,446740
+750,20,10,Baseline,219760
+750,20,10,Amount Emphasis,197720
+750,20,10,Balanced Higher Capture,196600
+750,20,10,Balanced Conservative,407120
+750,20,10,High Capture,862730
+750,20,25,Baseline,219760
+750,20,25,Amount Emphasis,197720
+750,20,25,Balanced Higher Capture,196600
+750,20,25,Balanced Conservative,407120
+750,20,25,High Capture,862730
+750,20,50,Baseline,219760
+750,20,50,Amount Emphasis,197720
+750,20,50,Balanced Higher Capture,196600
+750,20,50,Balanced Conservative,407120
+750,20,50,High Capture,862730
+750,20,100,Baseline,219760
+750,20,100,Amount Emphasis,197720
+750,20,100,Balanced Higher Capture,196600
+750,20,100,Balanced Conservative,407120
+750,20,100,High Capture,862730
+1000,2,10,Baseline,190326
+1000,2,10,Amount Emphasis,151122
+1000,2,10,Balanced Higher Capture,151010
+1000,2,10,Balanced Conservative,540212
+1000,2,10,High Capture,124198
+1000,2,25,Baseline,190326
+1000,2,25,Amount Emphasis,151122
+1000,2,25,Balanced Higher Capture,151010
+1000,2,25,Balanced Conservative,540212
+1000,2,25,High Capture,124198
+1000,2,50,Baseline,190326
+1000,2,50,Amount Emphasis,151122
+1000,2,50,Balanced Higher Capture,151010
+1000,2,50,Balanced Conservative,540212
+1000,2,50,High Capture,124198
+1000,2,100,Baseline,190326
+1000,2,100,Amount Emphasis,151122
+1000,2,100,Balanced Higher Capture,151010
+1000,2,100,Balanced Conservative,540212
+1000,2,100,High Capture,124198
+1000,5,10,Baseline,202815
+1000,5,10,Amount Emphasis,164805
+1000,5,10,Balanced Higher Capture,164525
+1000,5,10,Balanced Conservative,540530
+1000,5,10,High Capture,248995
+1000,5,25,Baseline,202815
+1000,5,25,Amount Emphasis,164805
+1000,5,25,Balanced Higher Capture,164525
+1000,5,25,Balanced Conservative,540530
+1000,5,25,High Capture,248995
+1000,5,50,Baseline,202815
+1000,5,50,Amount Emphasis,164805
+1000,5,50,Balanced Higher Capture,164525
+1000,5,50,Balanced Conservative,540530
+1000,5,50,High Capture,248995
+1000,5,100,Baseline,202815
+1000,5,100,Amount Emphasis,164805
+1000,5,100,Balanced Higher Capture,164525
+1000,5,100,Balanced Conservative,540530
+1000,5,100,High Capture,248995
+1000,10,10,Baseline,223630
+1000,10,10,Amount Emphasis,187610
+1000,10,10,Balanced Higher Capture,187050
+1000,10,10,Balanced Conservative,541060
+1000,10,10,High Capture,456990
+1000,10,25,Baseline,223630
+1000,10,25,Amount Emphasis,187610
+1000,10,25,Balanced Higher Capture,187050
+1000,10,25,Balanced Conservative,541060
+1000,10,25,High Capture,456990
+1000,10,50,Baseline,223630
+1000,10,50,Amount Emphasis,187610
+1000,10,50,Balanced Higher Capture,187050
+1000,10,50,Balanced Conservative,541060
+1000,10,50,High Capture,456990
+1000,10,100,Baseline,223630
+1000,10,100,Amount Emphasis,187610
+1000,10,100,Balanced Higher Capture,187050
+1000,10,100,Balanced Conservative,541060
+1000,10,100,High Capture,456990
+1000,20,10,Baseline,265260
+1000,20,10,Amount Emphasis,233220
+1000,20,10,Balanced Higher Capture,232100
+1000,20,10,Balanced Conservative,542120
+1000,20,10,High Capture,872980
+1000,20,25,Baseline,265260
+1000,20,25,Amount Emphasis,233220
+1000,20,25,Balanced Higher Capture,232100
+1000,20,25,Balanced Conservative,542120
+1000,20,25,High Capture,872980
+1000,20,50,Baseline,265260
+1000,20,50,Amount Emphasis,233220
+1000,20,50,Balanced Higher Capture,232100
+1000,20,50,Balanced Conservative,542120
+1000,20,50,High Capture,872980
+1000,20,100,Baseline,265260
+1000,20,100,Amount Emphasis,233220
+1000,20,100,Balanced Higher Capture,232100
+1000,20,100,Balanced Conservative,542120
+1000,20,100,High Capture,872980

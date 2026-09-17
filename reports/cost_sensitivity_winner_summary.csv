@@ -1,0 +1,4 @@
+strategy,wins,win_rate
+Balanced Higher Capture,64,0.8
+Balanced Conservative,8,0.1
+High Capture,8,0.1
